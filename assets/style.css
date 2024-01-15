@@ -10,7 +10,7 @@ body {
 
 /*BARRA DE NAVEGACIÓN*/
 .img-navb {
-  width: 80px;
+  width: 30px;
 }
 
 /*TÍTULO PRINCIPAL*/
@@ -23,7 +23,7 @@ h1 {
   text-align: center;
   border: 1px solid #666666;
   padding: 40px;
-  font-family: "Mrs Saint Delafield", cursive;
+  font-family: 'Barlow Condensed', sans-serif;
   font-size: 3em;
 }
 
@@ -187,6 +187,6 @@ header h1 {
   text-align: center;
   border: 1px solid #666666;
   padding: 40px;
-  font-family: "Mrs Saint Delafield", cursive;
+  font-family: 'Barlow Condensed', sans-serif;
   font-size: 2em;
 }
